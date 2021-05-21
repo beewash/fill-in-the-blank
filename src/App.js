@@ -9,7 +9,7 @@ function App() {
     <>
       <header className={styles.header}>
         <Link className={styles.headerLink} to="/">
-          Sanity Mad Libs
+          Sanity Mad Libs *dev
         </Link>
       </header>
 
